@@ -1,0 +1,2 @@
+# Segunda-lectura
+CRISP-DM
